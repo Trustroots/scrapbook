@@ -6,7 +6,7 @@ Collection of articles about [Trustroots.org](https://www.trustroots.org/)
 [trustroots.org/media](https://www.trustroots.org/#!/media)
 
 ### 2015
-* Apr 19 - Frankfurter Allgemeine [Sofa, so good](media/2015/2015-04-19_FAS_Sofasurf.pdf)
+* Apr 19 - Frankfurter Allgemeine [Sofa, so good](media/2015/2015-04-19_FAS_Sofasurf.pdf) ([open in browser](https://cdn.rawgit.com/Trustroots/scrapbook/master/media/2015/2015-04-19_FAS_Sofasurf.pdf))
 * Jan 29 - WAZ: [Moderne Tramper sind im Internet gut miteinander vernetzt](http://www.derwesten.de/freizeit/moderne-tramper-sind-im-internet-gut-miteinander-vernetzt-id10255948.html) (in German)
 
 
